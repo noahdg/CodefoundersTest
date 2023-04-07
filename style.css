@@ -1,0 +1,37 @@
+body {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+span {
+    color: green;
+    background-color: orange;
+}
+
+td {
+    border: 1px black dashed;
+    padding: 10px;
+}
+
+.table-image {
+    height: 100px;
+    width: 100px;
+    object-fit: contain;
+    background-color: black;
+}
+
+.table-bigtext {
+    font-size: 24px;
+}
+
+#otter-table {
+    font-size: 32px;
+    border: 2px black solid;
+    margin-bottom: 50px;
+}
+
+#otter-title {
+    color: gold;
+    text-shadow: 2.5px 2.5px black;
+    text-align: center;
+}
